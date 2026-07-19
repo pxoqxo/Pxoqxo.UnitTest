@@ -20,6 +20,10 @@ The framework supports both 🔄 synchronous and ⚡ asynchronous test execution
 
 Pxoqxo.UnitTest aims to provide a fast, lightweight, and easy-to-use testing framework that focuses on performance, simplicity, and clear diagnostics while remaining easy to integrate into any .NET project.
 
+## Prerequisites
+
++ .NET 8 SDK
+
 ## 🤝 Contributing
 
 At this time, contributions are accepted **only through email**. If you'd like to report a bug, suggest a feature, or contribute code, please contact me via pxoqxo@atomicmail.io.
