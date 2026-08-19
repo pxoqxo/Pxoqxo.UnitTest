@@ -39,6 +39,8 @@ Test.Run(demoTests.Method2);
 Test.Run(demoTests.Method3);
 Test.Run(DemoTests.Method4);
 
+Console.ReadKey();
+
 bool Method1()
 {
     int[] i = [];
