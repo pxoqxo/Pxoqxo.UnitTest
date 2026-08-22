@@ -13,6 +13,7 @@
 		<OutputPath>..\..\publish\Pxoqxo.UnitTest\em1.0</OutputPath>
 		<AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
 		<AppendRuntimeIdentifierToOutputPath>true</AppendRuntimeIdentifierToOutputPath>
+		<RuntimeIdentifier>portable</RuntimeIdentifier>
 	</PropertyGroup>
 
 	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
